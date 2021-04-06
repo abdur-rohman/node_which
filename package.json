@@ -1,0 +1,9 @@
+{
+  "name": "solve",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "which": "^2.0.2"
+  }
+}
